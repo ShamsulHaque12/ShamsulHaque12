@@ -1,8 +1,12 @@
-💫 Hi 👋, I'm Shamsul Haque Sujon
+# 💫 Hi 👋, I'm Shamsul Haque Sujon
 
-A passionate Flutter App Developer from Bangladesh
+A passionate **Flutter App Developer** from **Bangladesh** 🇧🇩
 
-🚀 I specialize in creating high-performance, user-friendly, and visually appealing mobile applications using Flutter. With a strong grasp of GetX state management, responsive UI design, and seamless API integration, I aim to deliver apps that are both functional and delightful to use.
+🚀 I specialize in creating high-performance, user-friendly, and visually appealing mobile applications using **Flutter**.  
+With a strong grasp of **GetX** state management, **responsive UI design**, and **seamless API integration**,  
+I aim to deliver apps that are both **functional** and **delightful** to use.
+
+---
 
 🎯 My key skills:
 
