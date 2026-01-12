@@ -37,9 +37,8 @@ I focus on **GetX**, clean architecture, and modern UI practices to deliver prod
 ---
 
 ## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamsulHaque12&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=shamsulhaque12&show_icons=true&theme=radical&hide_border=true" />
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShamsulHaque12&theme=radical&hide_border=true" />
