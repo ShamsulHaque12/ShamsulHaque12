@@ -44,7 +44,7 @@ I focus on **GetX**, clean architecture, and modern UI practices to deliver prod
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShamsulHaque12&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsulHaque12&layout=compact&theme=radical&hide_border=true" />
 </p>
 
