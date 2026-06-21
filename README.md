@@ -42,8 +42,16 @@ I am a **Computer Science & Engineering** student and a passionate **Flutter App
       </td>
     </tr>
   </table>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShamsulHaque12&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </div>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamsulHaque12&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</p>
 
 ---
 
